@@ -1,0 +1,9 @@
+{
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_dimension": 384,
+    "documents": 6715,
+    "normalized": true,
+    "batch_size": 32,
+    "dtype": "float32",
+    "device": "cpu"
+}

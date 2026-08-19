@@ -1,0 +1,8 @@
+{
+    "query": "Participants rallied behind the victim and her family, discussed details of her life, and called for stronger gun-control measures. Some argued that the tragedy could have been prevented through stricter laws or firearm bans. Others argued that criminals would obtain guns regardless of restrictions and that bans are therefore ineffective.",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retrieval_method": "NearestNeighbors (Cosine)",
+    "top_k": 30,
+    "documents_retrieved": 30,
+    "normalized_embeddings": true
+}
